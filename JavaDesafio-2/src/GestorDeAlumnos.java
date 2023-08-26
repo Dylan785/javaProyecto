@@ -1,4 +1,3 @@
-import java.util.Scanner;
 
 public class GestorDeAlumnos {
     public String nombre;
